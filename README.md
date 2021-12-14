@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/7a0b5fd8-b7d7-45e1-af49-52baa8e76c83.svg)](https://wakatime.com/@7a0b5fd8-b7d7-45e1-af49-52baa8e76c83)
+
+
 <!--
 **mardonedias/mardonedias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
