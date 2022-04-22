@@ -2,7 +2,7 @@
 
 ### Hello! Welcome to my profile
 
-![mardone_propfile (1)](https://user-images.githubusercontent.com/1024457/164754741-ad45513e-d56a-4814-8c54-067478f29dd0.jpg)
+![fullstack-designer](https://user-images.githubusercontent.com/1024457/164760916-83921036-184d-43d4-aba8-f8f7f183b33a.png)
 
 ## About
 - 🔭 I’m currently working on RIP Serviços Industriais
