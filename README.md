@@ -6,6 +6,7 @@
 
 ## About
 - 🔭 I’m currently working on RIP Serviços Industriais
+- 😄 I’m Full Stack Developer
 
 ## Develop
 
