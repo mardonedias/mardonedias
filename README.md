@@ -2,8 +2,6 @@
 
 ### Hello! Welcome to my profile
 
-![fullstack-designer](https://user-images.githubusercontent.com/1024457/164760916-83921036-184d-43d4-aba8-f8f7f183b33a.png)
-
 ## About
 - 🔭 I’m currently working on RIP Serviços Industriais
 - 😄 I’m Full Stack Developer
