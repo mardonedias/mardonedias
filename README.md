@@ -6,8 +6,7 @@
 - 🔭 I’m currently working on RIP Serviços Industriais
 - 😄 I’m Full Stack Developer
 
-## Skills
-
+## Skills (Web/Mobile)
 
 <!--
 [![????]()](#)
@@ -22,6 +21,9 @@
 [![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)
 [![PUG](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black
 )](#)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+	
 
 ### Client Side
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](#) 
@@ -31,6 +33,7 @@
 ### Server Side
 [![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#) 
 [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#)
 
 ### Mobile
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
