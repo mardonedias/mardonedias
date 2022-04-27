@@ -9,6 +9,8 @@
 ## Skills (Web/Mobile)
 In recent years I have specialized in Web/Mobile development. I've used several languages and frameworks. And I arrived at the set of technologies that serve most web and mobile scenarios.
 
+One of the particularities of the client and server environments is that I use both javascript/typescript, making development simpler.
+
 Besides web/mobile I also have knowledge of technologies for desktop development. Java, C#, MySql and etc.
 
 <!--
