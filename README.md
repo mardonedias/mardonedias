@@ -9,7 +9,7 @@
 ## Skills (Web/Mobile)
 In recent years I have specialized in Web/Mobile development. I've used several languages and frameworks. And I arrived at the set of technologies that serve most web and mobile scenarios.
 
-One of the particularities of the client and server environments is that I use both javascript/typescript, making development simpler.
+One of the particularities of this client/server environment is that I use typescript in both projects, making development simpler.
 
 Besides web/mobile I also have knowledge of technologies for desktop development. Java, C#, MySql and etc.
 
@@ -21,11 +21,15 @@ BOTÕES: https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
 
 ### Languages
+These languages I define as the main languages for web/mobile development. They were chosen because they were the most suitable for the environment in which I specialized.
+
+Javascript is the base language because I can use it both on the client and on the server. And not only that, javascript is the only language that can be executed by the web browser.
 
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 )](#)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#)
 [![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)
 [![PUG](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black
 )](#)
@@ -45,8 +49,8 @@ BOTÕES: https://github.com/alexandresanlim/Badges4-README.md-Profile
 ### Server Side
 [![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#) 
 [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#)
-
+[![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)](#)
+  
 ### Mobile
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
 
