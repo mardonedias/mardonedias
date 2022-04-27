@@ -6,9 +6,6 @@
 - 🔭 I’m currently working on RIP Serviços Industriais
 - 😄 I’m Full Stack Developer
 
-## Github Statistics
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=mardonedias&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Skills (Web/Mobile)
 In recent years I have specialized in Web/Mobile development. I've used several languages and frameworks. And I arrived at the set of technologies that serve most web and mobile scenarios.
 
@@ -56,6 +53,10 @@ BOTÕES: https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 ### Documentation
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)](#) 
+
+## Github Statistics
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=mardonedias&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mardonedias)](https://github.com/anuraghazra/github-readme-stats)
