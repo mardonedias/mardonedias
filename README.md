@@ -15,8 +15,10 @@ In recent years I have specialized in Web/Mobile development. I've used several 
 Besides web/mobile I also have knowledge of technologies for desktop development. Java, C#, MySql and etc.
 
 <!--
-BOTÕES ---> https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+BOTÕES: https://github.com/alexandresanlim/Badges4-README.md-Profile
 [![????]()](#)
+
 -->
 
 ### Languages
