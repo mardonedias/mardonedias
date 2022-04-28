@@ -6,6 +6,7 @@ A Full Stack developer from Ceará, Brazil. <br><br>
 <!--
 
 BOTÕES: https://github.com/alexandresanlim/Badges4-README.md-Profile
+BOTÕES GENÉRICOS: https://michaelcurrin.github.io/badge-generator/#/generic
 [![????]()](#)
 
 -->
