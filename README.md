@@ -10,6 +10,19 @@ BOTÕES: https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 -->
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mardonedias&show_icons=true"/>
+</p>
+
+### Summary
+I'm a Full Stack Developer, specialized in web and mobile development. I like to develop new ideas. As you would expect from any developer, I'm always studying to stay competitive, but without getting attached to technological fads. Always focus on cost and benefit.
+
+Like every web developer, I also have knowledge in handling servers, more focused on the cloud. I have experience with AWS servers, Google Cloud and building VPS's from different platforms.
+
+Programming for me is a hobby, but I have others like Films and Series, Family. I even have 2 beautiful daughters.
+
+Below I will be listing some of my skills:
+
 <details>
   <summary><h3> Skills (Web/Mobile)</h3></summary>
   <p>In recent years I have specialized in Web/Mobile development. I've used several languages and frameworks. And I arrived at the set of technologies that serve most  web and mobile scenarios.</p>
@@ -77,7 +90,6 @@ BOTÕES: https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mardonedias&theme=vue"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mardonedias&show_icons=true"/>
 </p>
 
 <p align="center">
