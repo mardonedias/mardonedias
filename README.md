@@ -10,16 +10,18 @@ BOTÕES: https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mardonedias&show_icons=true"/>
-</p>
-
 ### Summary
 I'm a Full Stack Developer, specialized in web and mobile development. I like to develop new ideas. As you would expect from any developer, I'm always studying to stay competitive, but without getting attached to technological fads. Always focus on cost and benefit.
 
 Like every web developer, I also have knowledge in handling servers, more focused on the cloud. I have experience with AWS servers, Google Cloud and building VPS's from different platforms.
 
 Programming for me is a hobby, but I have others like Films and Series, Family. I even have 2 beautiful daughters.
+
+### My work environment
+
+[![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+[![MEMORY - 8GB](https://img.shields.io/badge/MEMORY-8GB-2ea44f?style=for-the-badge)](#)
+[![AMD - A8](https://img.shields.io/badge/AMD-A8-2ea44f?style=for-the-badge)](#)
 
 Below I will be listing some of my skills:
 
@@ -87,6 +89,10 @@ Below I will be listing some of my skills:
 </details> -->
 
 ### Github Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mardonedias&show_icons=true"/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mardonedias&theme=vue"/>
