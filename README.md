@@ -75,7 +75,11 @@ For this I have knowledge in the main graphic editing tools on the market
 [![inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)](#)
 
 ## Github Statistics
+[![????](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mardonedias&theme=vue)](#)
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=mardonedias&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmardonedias1212%2Fhit-counter)](#)
 
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mardonedias)](https://github.com/anuraghazra/github-readme-stats)
