@@ -21,8 +21,8 @@ Programming for me is a hobby, but I have others like Films and Series, Family. 
 ### My work environment
 
 [![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
-[![MEMORY - 8GB](https://img.shields.io/badge/MEMORY-8GB-2ea44f?style=for-the-badge)](#)
 [![AMD - A8](https://img.shields.io/badge/AMD-A8-2ea44f?style=for-the-badge)](#)
+[![MEMORY - 8GB](https://img.shields.io/badge/MEMORY-8GB-2ea44f?style=for-the-badge)](#)
 
 Below I will be listing some of my skills:
 
