@@ -16,7 +16,7 @@ I'm a Full Stack Developer, specialized in web and mobile development. I like to
 
 Like every web developer, I also have knowledge in handling servers, more focused on the cloud. I have experience with AWS servers, Google Cloud and building VPS's from different platforms.
 
-Programming for me is a hobby, but I have others like Films, Series and Family. I even have 2 beautiful daughters.
+Programming is a hobby. I also like Movies, Series and Travel.
 
 ### My work environment
 
