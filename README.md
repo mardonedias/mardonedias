@@ -27,8 +27,7 @@ Programming is a hobby. I also like Movies, Series and Travel.
 
 Below I will be listing some of my skills:
 
-<details>
-  <summary><h3> Skills (Web/Mobile)</h3></summary>
+<h3> Skills (Web/Mobile)</h3>
   <p>In recent years I have specialized in Web/Mobile development. I've used several languages and frameworks. And I arrived at the set of technologies that serve most  web and mobile scenarios.</p>
   <p>Besides web/mobile I also have knowledge of technologies for desktop development. Java, C#, MySql and etc.</p>
   
@@ -82,8 +81,6 @@ Below I will be listing some of my skills:
   [![Ilustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](#)
   [![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)](#)
   [![inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)](#)
-  
-</details>
 
 <!-- <details>
   <summary><h3> Skills (Desktop)</h3></summary>
