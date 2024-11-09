@@ -18,13 +18,6 @@ Like every web developer, I also have knowledge in handling servers, more focuse
 
 Programming is a hobby. I also like Movies, Series and Travel.
 
-### My work environment
-
-[![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
-[![AMD - A8](https://img.shields.io/badge/AMD-A8-2ea44f?style=for-the-badge)](#)
-[![MEMORY - 8GB](https://img.shields.io/badge/MEMORY-8GB-2ea44f?style=for-the-badge)](#)
-[![RADEON - R7](https://img.shields.io/badge/RADEON-R7-2ea44f?style=for-the-badge)](#)
-
 Below I will be listing some of my skills:
 
 <h3> Skills (Web/Mobile)</h3>
