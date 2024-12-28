@@ -50,6 +50,7 @@ Below I will be listing some of my skills:
   ### Server Side
   [![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#) 
   [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
+  [![NodeJs](https://img.shields.io/badge/Nest.js-eb5bc2?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
   
   ### 📱 Mobile
   [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
