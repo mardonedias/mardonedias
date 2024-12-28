@@ -83,10 +83,6 @@ Below I will be listing some of my skills:
 ### Github Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mardonedias&show_icons=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mardonedias&theme=vue"/>
 </p>
 
