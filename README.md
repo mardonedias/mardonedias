@@ -95,12 +95,11 @@ const mardone = {
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mardonedias&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mardonedias&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mardonedias&theme=dark&hide_border=true&background=0D1117&stroke=00b3ff&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mardonedias&theme=dark&hide_border=true&background=0D1117&stroke=00b3ff&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mardonedias&custom_title=Contribution%20Activity&bg_color=0D1117&color=00b3ff&line=00b3ff&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
