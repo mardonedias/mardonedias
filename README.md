@@ -4,10 +4,11 @@
 
 <div align="center">
   
-  ### 🚀 Full Stack Developer | 🇧🇷 Ceará, Brazil
+  ### 🚀 Full Stack Developer & Microservices Architect | 🇧🇷 Ceará, Brazil
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mardonedias@gmail.com)
   ![Profile Views](https://komarev.com/ghpvc/?username=mardonedias&color=blueviolet&style=for-the-badge&label=VISITORS)
+  [![Years Badge](https://badges.pufler.dev/years/mardonedias?style=for-the-badge&color=blue&logo=github)](https://github.com/mardonedias)
 
 </div>
 
@@ -19,21 +20,32 @@
 
 ```typescript
 const mardone = {
-    location: "Ceará 🌴, Brazil",
-    role: "Full Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python", "Dart"],
-    askMeAbout: ["web dev", "mobile", "cloud", "design"],
-    technologies: {
-        frontend: ["Vue.js", "Quasar", "Vite"],
-        backend: ["Node.js", "Express", "NestJS"],
-        mobile: ["Flutter"],
-        databases: ["MongoDB", "Redis", "CouchDB", "SQLite"],
-        devOps: ["Docker", "AWS", "GCP", "GitHub Actions"],
-        tools: ["Git", "VS Code", "Swagger"]
-    },
-    architecture: ["Microservices", "Event-Driven", "REST APIs"],
-    currentFocus: "Building scalable solutions",
-    funFact: "Programming is my hobby! 🎮"
+  location: 'Ceará 🌴, Brazil',
+  role: 'Full Stack Developer & Microservices Architect',
+  code: ['JavaScript', 'TypeScript', 'Python', 'Dart'],
+  askMeAbout: ['microservices', 'web dev', 'mobile', 'cloud', 'design'],
+  technologies: {
+    frontend: ['Vue.js', 'Quasar', 'Vite'],
+    backend: ['Node.js', 'NestJS'],
+    mobile: ['Flutter'],
+    databases: ['PostgreSQL', 'MySQL', 'MongoDB', 'Redis'],
+    messageQueue: ['RabbitMQ'],
+    devOps: ['Docker', 'AWS', 'GCP', 'GitHub Actions'],
+    tools: ['Git', 'VS Code', 'Swagger'],
+  },
+  architecture: [
+    'Microservices',
+    'Event-Driven',
+    'REST APIs',
+    'Domain-Driven Design',
+  ],
+  specialties: [
+    'Microservices Architecture',
+    'Distributed Systems',
+    'API Gateway',
+  ],
+  currentFocus: 'Building scalable microservices solutions',
+  funFact: 'Programming is my hobby! 🎮',
 };
 ```
 
@@ -46,24 +58,31 @@ const mardone = {
 <div align="center">
 
 ### Core Technologies
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frontend & Mobile
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Backend & Database
+
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### Cloud & DevOps
+
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -90,13 +109,13 @@ const mardone = {
 
 <div align="center">
 
-| 🌐 **Full Stack Development** | 📱 **Mobile Apps** | ☁️ **Cloud Solutions** |
-|:---:|:---:|:---:|
-| Modern web applications with Vue.js and Node.js | Cross-platform apps with Flutter | Scalable infrastructure on AWS/GCP |
+|         �️ **Microservices Architecture**          |        📱 **Mobile Apps**        |       ☁️ **Cloud Solutions**       |
+| :------------------------------------------------: | :------------------------------: | :--------------------------------: |
+| Distributed systems with NestJS, RabbitMQ & Docker | Cross-platform apps with Flutter | Scalable infrastructure on AWS/GCP |
 
-| 🎨 **UI/UX Design** | 🔧 **DevOps & Automation** | 📈 **Performance Optimization** |
-|:---:|:---:|:---:|
-| Beautiful, functional interfaces | CI/CD pipelines and containerization | Fast, efficient, maintainable code |
+|        � **Full Stack Development**        |      🔧 **DevOps & Automation**      |  📈 **Performance Optimization**   |
+| :----------------------------------------: | :----------------------------------: | :--------------------------------: |
+| Modern web applications with Vue.js & APIs | CI/CD pipelines and containerization | Fast, efficient, maintainable code |
 
 </div>
 
@@ -113,7 +132,7 @@ graph TD
     C --> D[🚀 Implementation]
     D --> E[📊 Optimization]
     E --> F[🔄 Iteration]
-    
+
     style A fill:#00b3ff,stroke:#fff,color:#fff
     style B fill:#00b3ff,stroke:#fff,color:#fff
     style C fill:#00b3ff,stroke:#fff,color:#fff
@@ -137,7 +156,7 @@ graph TD
 
 <br>
 
-> *"The best programs are written when the programmer is supposed to be working on something else."* – Melinda Varian
+> _"The best programs are written when the programmer is supposed to be working on something else."_ – Melinda Varian
 
 </div>
 
