@@ -8,7 +8,6 @@
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mardonedias@gmail.com)
   ![Profile Views](https://komarev.com/ghpvc/?username=mardonedias&color=blueviolet&style=for-the-badge&label=VISITORS)
-  [![Years Badge](https://badges.pufler.dev/years/mardonedias?style=for-the-badge&color=blue&logo=github)](https://github.com/mardonedias)
 
 </div>
 
