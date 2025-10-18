@@ -1,109 +1,145 @@
-<p align="center">
-<strong> Hi there 👋 I'm Mardone 👨‍💻</strong> <br>
-A Full Stack developer from Ceará, Brazil. <br><br>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Mardone%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff"/>
+</div>
 
-<!--
-
-BOTÕES: https://github.com/alexandresanlim/Badges4-README.md-Profile
-BOTÕES GENÉRICOS: https://michaelcurrin.github.io/badge-generator/#/generic
-[![????]()](#)
-
--->
-
-### Summary
-I'm a Full Stack Developer, specialized in web and mobile development. I like to develop new ideas. As you would expect from any developer, I'm always studying to stay competitive, but without getting attached to technological fads. Always focus on cost and benefit.
-
-Like every web developer, I also have knowledge in handling servers, more focused on the cloud. I have experience with AWS servers, Google Cloud and building VPS's from different platforms.
-
-Programming is a hobby. I also like Movies, Series and Travel.
-
-Below I will be listing some of my skills:
-
-<h3> Skills (Web/Mobile)</h3>
-  <p>In recent years I have specialized in Web/Mobile development. I've used several languages and frameworks. And I arrived at the set of technologies that serve most  web and mobile scenarios.</p>
-  <p>Besides web/mobile I also have knowledge of technologies for desktop development. Java, C#, MySql and etc.</p>
+<div align="center">
   
-  ### Languages
-  <p>Javascript is the base language because I can use it both on the client and on the server. And not only that, javascript is the only language that can be executed by the web browser.</p>
+  ### 🚀 Full Stack Developer | 🇧🇷 Ceará, Brazil
   
-  [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
-  [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
-  [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#)
-  [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#)
-  [![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)
-  [![PUG](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)](#)
-  [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-  [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mardonedias@gmail.com)
+  ![Profile Views](https://komarev.com/ghpvc/?username=mardonedias&color=blueviolet&style=for-the-badge&label=VISITORS)
+  [![Years Badge](https://badges.pufler.dev/years/mardonedias?style=for-the-badge&color=blue&logo=github)](https://github.com/mardonedias)
+
+</div>
+
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 👨‍💻 About Me
+
+```typescript
+const mardone = {
+    location: "Ceará 🌴, Brazil",
+    role: "Full Stack Developer",
+    code: ["JavaScript", "TypeScript", "Python", "Dart"],
+    askMeAbout: ["web dev", "mobile", "cloud", "design"],
+    technologies: {
+        frontend: ["Vue.js", "Quasar", "Vite"],
+        backend: ["Node.js", "Express", "NestJS"],
+        mobile: ["Flutter"],
+        databases: ["MongoDB", "Redis", "CouchDB", "SQLite"],
+        devOps: ["Docker", "AWS", "GCP", "GitHub Actions"],
+        tools: ["Git", "VS Code", "Swagger"]
+    },
+    architecture: ["Microservices", "Event-Driven", "REST APIs"],
+    currentFocus: "Building scalable solutions",
+    funFact: "Programming is my hobby! 🎮"
+};
+```
+
+<br clear="right"/>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+
+### Core Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+### Frontend & Mobile
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend & Database
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mardonedias&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mardonedias&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mardonedias&theme=dark&hide_border=true&background=0D1117&stroke=00b3ff&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="GitHub Streak" />
+</div>
+
+---
+
+<h2 align="center">🎯 What I Do</h2>
+
+<div align="center">
+
+| 🌐 **Full Stack Development** | 📱 **Mobile Apps** | ☁️ **Cloud Solutions** |
+|:---:|:---:|:---:|
+| Modern web applications with Vue.js and Node.js | Cross-platform apps with Flutter | Scalable infrastructure on AWS/GCP |
+
+| 🎨 **UI/UX Design** | 🔧 **DevOps & Automation** | 📈 **Performance Optimization** |
+|:---:|:---:|:---:|
+| Beautiful, functional interfaces | CI/CD pipelines and containerization | Fast, efficient, maintainable code |
+
+</div>
+
+---
+
+<h2 align="center">💭 Philosophy</h2>
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[💡 Problem] --> B[🔍 Analysis]
+    B --> C[⚡ Solution]
+    C --> D[🚀 Implementation]
+    D --> E[📊 Optimization]
+    E --> F[🔄 Iteration]
+    
+    style A fill:#00b3ff,stroke:#fff,color:#fff
+    style B fill:#00b3ff,stroke:#fff,color:#fff
+    style C fill:#00b3ff,stroke:#fff,color:#fff
+    style D fill:#00b3ff,stroke:#fff,color:#fff
+    style E fill:#00b3ff,stroke:#fff,color:#fff
+    style F fill:#00b3ff,stroke:#fff,color:#fff
+```
+
+**Clean Code • Smart Decisions • Continuous Learning • User-Focused**
+
+</div>
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
   
-  ### Databases
-  [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-  [![REDIS](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](#)
-  [![CouchDB](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)](#)
-  [![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mardonedias@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mardonedias)
 
-  ### Client Side (Web)
-  [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](#) 
-  [![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](#)
-  [![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)](#)
-  
-  ### Server Side
-  [![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#) 
-  [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
-  [![NodeJs](https://img.shields.io/badge/Nest.js-eb5bc2?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
-  
-  ### 📱 Mobile
-  [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
-  
-  ### 💻 Infraestruture
-  [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](#)
-  [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white )](#) 
-  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-  [![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](#)  
-  
-  ### 👨‍💻 IDE
-  [![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
+<br>
 
-  ### 📃 Documentation
-  [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)](#) 
+> *"The best programs are written when the programmer is supposed to be working on something else."* – Melinda Varian
 
-  ### 🎨 Design
-  <p>Even today with the great advancement in UI frameworks, there is still a need to create graphic design. For example, the visual identity of the brand.
-    For this I have knowledge in the main graphic editing tools on the market</p>
-  
-  [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](#)
-  [![Ilustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](#)
-  [![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)](#)
-  [![inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)](#)
+</div>
 
-<!-- <details>
-  <summary><h3> Skills (Desktop)</h3></summary>
-  <p>soon</p>
-</details> -->
-
-### Github Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mardonedias&theme=vue"/>
-</p>
-
-<p align="center">
-  📫 How to reach me: <a href="mailto:mardonedias@gmail.com">mardonedias@gmail.com</a> <br><br>
-  <img src="https://komarev.com/ghpvc/?username=mardonedias&color=green&flat-square&label=PROFILE+VIEWS"/> <br>
-</p>
-
-<!--
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mardonedias)](https://github.com/anuraghazra/github-readme-stats)
-
-**mardonedias/mardonedias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
